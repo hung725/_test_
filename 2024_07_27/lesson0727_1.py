@@ -1,0 +1,6 @@
+print(5 + 8)
+print(5 ** 5)
+print(3 + 5 * 10)
+print((3 + 5) * 10)
+print(10//3)
+print(1111111 % 3)
